@@ -13,6 +13,6 @@ steps:
 - step5.md
 time: 40 minutes
 assets:
--samplereorder.png
--assets1.png
+- samplereorder.png
+- assets1.png
 title: Test Installation And First Steps Assets1b
